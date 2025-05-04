@@ -2,7 +2,7 @@ const levelData = [
     {
       symbols: ['🌸', '💧', '🫶'],
       messages: [
-        "You’re beginning to bloom u beatiful tulip.",
+        "You’re beginning to bloom u beautiful tulip.",
         "Gentle steps matter.",
         "This healing is yours keep mooving.",
         "You did it with softness really proud of you my lady. 🌸",
